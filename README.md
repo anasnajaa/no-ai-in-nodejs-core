@@ -81,6 +81,7 @@ speed up the process.
 - Sean Scally (Programmer)
 - Yasser Nascimento (Programmer)
 - Tiziano Bettio (Programmer)
+- Mikalai Birukou (Developer)
 - Camden Kirkland (Programmer, Data Scientist, Technical Instructor)
 - Daniel Escoz Solana (Programmer, working with Node.js since 2014)
 
