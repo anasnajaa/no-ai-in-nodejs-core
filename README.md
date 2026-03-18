@@ -82,6 +82,7 @@ speed up the process.
 - Yasser Nascimento (Programmer)
 - Tiziano Bettio (Programmer)
 - Camden Kirkland (Programmer, Data Scientist, Technical Instructor)
+- Daniel Escoz Solana (Programmer, working with Node.js since 2014)
 
 [0]: https://github.com/openjs-foundation/cross-project-council/issues/1509
 [1]: https://github.com/nodejs/node/pull/61478
