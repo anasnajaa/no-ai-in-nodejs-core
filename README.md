@@ -97,6 +97,7 @@ speed up the process.
 - Anas Elgarhy (Software Engineer)
 - Kęstutis Dambrauskas (Front-end developer)
 - Jared White (Web Developer, Open Source Maintainer)
+- Anagh Pranshu (Web Developer, Open Source Enthusiast)
 
 [0]: https://github.com/openjs-foundation/cross-project-council/issues/1509
 [1]: https://github.com/nodejs/node/pull/61478
